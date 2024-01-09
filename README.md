@@ -1,4 +1,4 @@
-**Project Title: Classification of Clothings using Computer Vision**
+# **Project Title: Classification of Clothings using Computer Vision**
 
 **Overview:**
 The "Classification of Clothings using Computer Vision" project aims to develop a robust and accurate system for classifying various types of clothing items, including shoes, shirts, pants, boots, bags, etc. Leveraging advanced techniques in computer vision, machine learning, and neural networks, this project contributes to the field of automated image recognition in the fashion industry.
