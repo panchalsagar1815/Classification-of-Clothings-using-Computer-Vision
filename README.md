@@ -1,5 +1,4 @@
 
-
 **Project Title: Classification of Clothings using Computer Vision**
 
 **Overview:**
