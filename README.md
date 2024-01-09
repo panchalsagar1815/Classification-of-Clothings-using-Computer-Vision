@@ -1,4 +1,4 @@
-# Classification-of-Clothings-using-Computer-Vision
+
 
 **Project Title: Classification of Clothings using Computer Vision**
 
